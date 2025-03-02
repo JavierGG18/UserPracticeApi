@@ -2894,11 +2894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/javiergarcia/Projects/csnet/UserApi/UserApi/UserApi.csproj",
+      "projectUniqueName": "/Users/javiergarcia/Projects/csnet/UserPracticeApi/UserApi.csproj",
       "projectName": "UserApi",
-      "projectPath": "/Users/javiergarcia/Projects/csnet/UserApi/UserApi/UserApi.csproj",
+      "projectPath": "/Users/javiergarcia/Projects/csnet/UserPracticeApi/UserApi.csproj",
       "packagesPath": "/Users/javiergarcia/.nuget/packages/",
-      "outputPath": "/Users/javiergarcia/Projects/csnet/UserApi/UserApi/obj/",
+      "outputPath": "/Users/javiergarcia/Projects/csnet/UserPracticeApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/javiergarcia/.nuget/NuGet/NuGet.Config"

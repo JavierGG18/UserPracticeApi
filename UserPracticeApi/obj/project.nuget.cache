@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0SKylBI4gg=",
+  "dgSpecHash": "QPlAF9I4PZg=",
   "success": true,
-  "projectFilePath": "/Users/javiergarcia/Projects/csnet/UserApi/UserApi/UserApi.csproj",
+  "projectFilePath": "/Users/javiergarcia/Projects/csnet/UserPracticeApi/UserApi.csproj",
   "expectedPackageFiles": [
     "/Users/javiergarcia/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/javiergarcia/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
